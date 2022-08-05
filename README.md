@@ -1,4 +1,5 @@
 # go-elastic
 
 # My Data My Choice
-Generate wordlist from elastic search.
+
+Create a wordlist from ElasticSearch for Fuzzing purpose.
