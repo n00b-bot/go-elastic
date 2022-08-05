@@ -43,7 +43,7 @@ func main() {
 		log.Println(err)
 		return
 	}
-	//fmt.Println(searchResult.TotalHits())
+	//fmt.Println(searchResult.TotalHits()) 
 	//fmt.Println(len(searchResult.Hits.Hits))
 
 	newPath := make(map[string]bool)
